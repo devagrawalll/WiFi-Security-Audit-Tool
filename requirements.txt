@@ -1,0 +1,5 @@
+flask>=2.3.0
+reportlab>=4.0.0
+pywifi>=1.1.12
+comtypes>=1.2.0
+scapy>=2.5.0
