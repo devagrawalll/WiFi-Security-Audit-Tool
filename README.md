@@ -79,7 +79,7 @@ wifi-security-toolkit/
 
 ```powershell
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/wifi-security-toolkit.git
+git clone https://github.com/devagrawalll/WiFi-Security-Audit-Tool.git
 cd wifi-security-toolkit
 
 # 2. Install dependencies
@@ -120,7 +120,7 @@ app.run(debug=False, host="0.0.0.0", port=5001)
 brew install python3
 
 # 3. Clone the repository
-git clone https://github.com/YOUR_USERNAME/wifi-security-toolkit.git
+git clone https://github.com/devagrawalll/WiFi-Security-Audit-Tool.git
 cd wifi-security-toolkit
 
 # 4. Install dependencies
@@ -160,7 +160,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip -y
 
 # 3. Clone the repository
-git clone https://github.com/YOUR_USERNAME/wifi-security-toolkit.git
+git clone https://github.com/devagrawalll/WiFi-Security-Audit-Tool.git
 cd wifi-security-toolkit
 
 # 4. Install dependencies
@@ -271,7 +271,7 @@ scapy>=2.5.0        # All platforms
 
 **Dev Agrawal**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dev_Agrawal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Dev_Agrawal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devagrawalll)
 
 ---
 
