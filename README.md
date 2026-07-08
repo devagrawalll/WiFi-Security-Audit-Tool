@@ -44,7 +44,7 @@ Real-time scanning · Risk scoring · Rogue AP detection · Connected devices ·
 ## 🗂 Project Structure
 
 ```
-wifi-security-toolkit/
+Wifi-security-Audit-Tool/
 │
 ├── scanner/
 │   ├── wifi_scan.py            # Network discovery, analysis, risk scoring
@@ -80,7 +80,7 @@ wifi-security-toolkit/
 ```powershell
 # 1. Clone the repository
 git clone https://github.com/devagrawalll/WiFi-Security-Audit-Tool.git
-cd wifi-security-toolkit
+cd WiFi-Security-Audit-Tool
 
 # 2. Install dependencies
 pip install flask reportlab pywifi comtypes scapy
@@ -121,7 +121,7 @@ brew install python3
 
 # 3. Clone the repository
 git clone https://github.com/devagrawalll/WiFi-Security-Audit-Tool.git
-cd wifi-security-toolkit
+cd WiFi-Security-Audit-Tool
 
 # 4. Install dependencies
 pip3 install flask reportlab scapy
@@ -161,7 +161,7 @@ sudo apt install python3 python3-pip -y
 
 # 3. Clone the repository
 git clone https://github.com/devagrawalll/WiFi-Security-Audit-Tool.git
-cd wifi-security-toolkit
+cd WiFi-Security-Audit-Tool
 
 # 4. Install dependencies
 pip install flask reportlab scapy --break-system-packages
